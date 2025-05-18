@@ -2,43 +2,43 @@
 
 #: 1
 msgid "Do you have allergies?"
-msgstr "¿Tienes alergias?"
+msgstr "Tem alergias?"
 
 #: 2
 msgid "General questions"
-msgstr ""
+msgstr "Perguntas gerais"
 
 #: 2.1
 #. General questions
 msgid "What is your gender?"
-msgstr ""
+msgstr "Qual é o seu sexo?"
 
 #: 2.2
 #. General questions
 msgid "What is your date of birth?"
-msgstr "¿Cuál es tu fecha de nacimiento?"
+msgstr "Qual é a sua data de nascimento?"
 
 #: 2.3
 #. General questions
 msgid "What is your country of birth?"
-msgstr ""
+msgstr "Qual é o seu país de nascimento?"
 
 #: 2.4
 #. General questions
 msgid "What is your marital status?"
-msgstr ""
+msgstr "Qual o seu estado civil?"
 
 #: 3
 msgid "Intoxications"
-msgstr ""
+msgstr "Intoxicações"
 
 #: 3.1
 #. Intoxications
 msgid "Do you smoke?"
-msgstr ""
+msgstr "Fuma?"
 
 #: 3.2
 #. Intoxications
 msgid "Do you drink alchohol?"
-msgstr ""
+msgstr "Bebe álcool"
 
