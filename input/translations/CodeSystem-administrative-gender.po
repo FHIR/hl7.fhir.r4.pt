@@ -1,0 +1,61 @@
+
+# null
+#: male
+msgid "Male"
+msgstr "Masculino"
+
+# null
+#: male@definition
+msgid "Male."
+msgstr "Masculino"
+
+# null
+#: male@codesystem-concept-comments
+msgid "Male"
+msgstr "Masculino"
+
+# null
+#: female
+msgid "Female"
+msgstr "Feminino"
+
+# null
+#: female@definition
+msgid "Female."
+msgstr "Feminino"
+
+# null
+#: female@codesystem-concept-comments
+msgid "Female"
+msgstr "Feminino"
+
+# null
+#: other
+msgid "Other"
+msgstr "Outro"
+
+# null
+#: other@definition
+msgid "Other."
+msgstr "Outro"
+
+# null
+#: other@codesystem-concept-comments
+msgid "The administrative gender is a value other than male/female/unknown. Where this value is selected, systems may often choose to include an extension with the localized more specific value."
+msgstr "O gênero administrativo é um valor diferente de masculino/feminino/desconhecido. Quando este valor é selecionado, os sistemas podem optar por incluir uma extensão com o valor mais específico localizado."
+
+# null
+#: unknown
+msgid "Unknown"
+msgstr "Desconhecido"
+
+# null
+#: unknown@definition
+msgid "Unknown."
+msgstr "Desconhecido"
+
+# null
+#: unknown@codesystem-concept-comments
+msgid "A proper value is applicable, but not known.  Usage Notes: This means the actual value is not known. If the only thing that is unknown is how to properly express the value in the necessary constraints (value set, datatype, etc.), then the OTH or UNC flavor should be used. No properties should be included for a datatype with this property unless:  Those properties themselves directly translate to a semantic of \"unknown\". (E.g. a local code sent as a translation that conveys 'unknown') Those properties further qualify the nature of what is unknown. (E.g. specifying a use code of \"H\" and a URL prefix of \"tel:\" to convey that it is the home phone number that is unknown.)"
+msgstr "Um valor adequado é aplicável, mas não é conhecido. Notas de uso: Isso significa que o valor real não é conhecido. Se a única coisa que não se sabe é como expressar adequadamente o valor nas restrições necessárias (conjunto de valores, tipo de dado, etc.), então o tipo OTH ou UNC deve ser usado. Nenhuma propriedade deve ser incluída para um tipo de dado com esta propriedade, a menos que: Essas propriedades se traduzam diretamente em um semântico de \"desconhecido\". (Por exemplo, um código local enviado como uma tradução que transmite 'desconhecido') Essas propriedades qualificam ainda mais a natureza do que é desconhecido. (Por exemplo, especificando um código de uso de \"H\" e um prefixo de URL de \"tel:\" para transmitir que é o número de telefone residencial que está desconhecido.)
+
