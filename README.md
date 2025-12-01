@@ -1,8 +1,8 @@
-# Página de inicio - español (Spanish Language Pack)
+# Página de inicio - português (Portuguese Language Pack)
 
-Mantenido por afiliados de HL7 de habla hispana.
-Para contribuir a este trabajo, vaya a
-[Paquete de traducción al español](https://chat.fhir.org/#narrow/stream/405678-Spanish-Translation-Pack)
+Mantido por afiliados de HL7 de língua portuguesa.
+Para contribuir para este trabalho, ver
+[FHIR chat](https://chat.fhir.org)
 
 See the translation pack at [https://build.fhir.org/ig/FHIR/hl7.fhir.r4.pt/branches/main]
 
